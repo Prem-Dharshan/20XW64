@@ -1,0 +1,2 @@
+Test Case: 10202
+Result: Accepted
